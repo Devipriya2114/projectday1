@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class array {
    public static void main(String[] args) {
 	   int a =10;
+	   int b =20;
 	  String[] java = new String[4];
 	  java[0]="j";
 	  java[1]="a";
